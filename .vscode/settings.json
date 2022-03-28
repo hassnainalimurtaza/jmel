@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.minimumContrastRatio": 7,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1
+}
